@@ -7,14 +7,11 @@ This video course start offs by explaining the process of developing a neural ne
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>History of Apache Spark and the introduction of Spark components 
-<LI>Learn how to get started with Apache Spark 
-<LI>Introduction to Apache Hadoop, it’s processed and components – HDFS, YARN and Map Reduce 
-<LI>Introduction of programming language – Scala, Scala fundamentals such as classes, objects in Scala, Collections in Scala, etc. 
-<LI>Apache Spark programming fundamentals and Resilient Distributed Datasets (RDD) 
-<LI>See which operations can be used to perform a transformation or action operation on the RDD&nbsp; 
-<LI>Find out how to load and save data in Spark&nbsp; 
-<LI>Write Spark application in Scala and execute it on Hadoop cluster </LI></UL></DIV>
+<LI>Set up a fully functional Spark environment
+<LI>Understand practical machine learning and deep learning concepts 
+<LI>Apply built-in machine learning libraries within Spark
+<LI>Explore libraries that are compatible with TensorFlow and Keras
+<LI>Explore NLP models such as Word2vec and TF-IDF on Spark</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
